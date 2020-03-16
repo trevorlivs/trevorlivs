@@ -1,0 +1,5 @@
+if (a--b) 
+{
+  string trev = "hello";
+  trev = trev.ucase(trev);
+}
