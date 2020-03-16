@@ -1,5 +1,6 @@
-if (a--b) 
+public string getName(string name)
 {
-  string trev = "hello";
-  trev = trev.ucase(trev);
+  if (name == "" ) {name = "trev");
+  name = name.ucase(name);
+  return name;
 }
