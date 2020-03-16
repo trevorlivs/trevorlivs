@@ -1,0 +1,6 @@
+public string getName(string name)
+{
+  if (name == "" ) {name = "trev");
+  name = name.ucase(name);
+  return name;
+}
