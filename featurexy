@@ -1,3 +1,4 @@
+Feature A added
 public string getName(string name)
 {
   if (name == "" ) {name = "trev");
